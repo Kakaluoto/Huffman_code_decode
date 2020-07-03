@@ -1,0 +1,23 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+<file alias="image/bgi.gif">image/bgi.gif</file>
+<file alias="image/bgi2.gif">image/bgi2.gif</file>
+<file alias="image/bgi3.gif">image/bgi3.gif</file>
+<file alias="image/bird.ico">image/bird.ico</file>
+<file alias="image/cat.ico">image/cat.ico</file>
+<file alias="image/change_dir.png">image/change_dir.png</file>
+<file alias="image/change_dir_press.png">image/change_dir_press.png</file>
+<file alias="image/code.png">image/code.png</file>
+<file alias="image/code_press.png">image/code_press.png</file>
+<file alias="image/code_to_dir.png">image/code_to_dir.png</file>
+<file alias="image/decode.png">image/decode.png</file>
+<file alias="image/decode_press.png">image/decode_press.png</file>
+<file alias="image/decode_to_dir.png">image/decode_to_dir.png</file>
+<file alias="image/flower.ico">image/flower.ico</file>
+<file alias="image/sele_file.png">image/sele_file.png</file>
+<file alias="image/sele_file_press.png">image/sele_file_press.png</file>
+<file alias="image/title.png">image/title.png</file>
+<file alias="image/title2.png">image/title2.png</file>
+</qresource>
+</RCC>
